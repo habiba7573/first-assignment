@@ -1,0 +1,60 @@
+.hero{
+    background-image: url('../assets/Hero-bg.png');
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position:center ;
+    margin: auto;
+    
+}
+.webdev{
+    display: flex;
+    align-items: center;
+}
+.development{
+    display:flex;
+    flex-direction: column;
+justify-content: center;
+align-items: center;
+    
+}
+.developer{
+    display:flex;
+ flex-direction: column;
+ justify-content:center;
+ align-items: center;
+    
+}
+.contact{
+    background-color: black;
+    color: white;
+    padding: 12px;
+    border-radius: 8px;
+    font-weight: bold;
+}
+.html,.css,.js{
+display: flex;
+flex-direction: column;
+text-align: left;
+padding: 20px;
+border-radius:8px;
+}
+.programming{
+  display: flex;
+  justify-content: space-around;  
+
+}
+.support{
+ background-image: url('../assets/handshake.jpg') ;   
+ height: 250px;
+ background-repeat: no-repeat;
+ background-position: center center;
+ background-size: cover;
+ width: 1200px;
+ margin:auto;
+ display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
